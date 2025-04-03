@@ -1,0 +1,34 @@
+Margherita
+Feltétek:
+paradicsomszósz, mozzarella, friss bazsalikom, olivaolaj
+
+Quattro Stagioni
+Feltétek:
+paradicsomszósz, mozzarella, sonka, gomba, articsóka, olajbogyó
+
+Napoli
+Feltétek:
+paradicsomszósz, mozzarella, szardella, olajbogyó, kapribogyó, oregánó
+
+
+Boscaiola
+Feltétek:
+paradicsomszósz, mozzarella, gomba, kolbász, olajbogyó, oregánó
+
+Diavola
+Feltétek:
+paradicsomszósz, mozzarella, pepperoni (szalámi), chili, olajbogyó
+
+
+Capricciosa
+Feltétek:paradicsomszósz, mozzarella, sonka, gomba, articsóka, olajbogyó, főtt tojás
+
+Quattro Formaggi
+Feltétek:paradicsomszósz, mozzarella, gorgonzola, parmezán, fontina sajt
+
+Prosciutto e Funghi
+Feltétek:paradicsomszósz, mozzarella, sonka, gomba
+
+Marinara
+Feltétek:paradicsomszósz, fokhagyma, oregánó, olivaolaj (nem tartalmaz sajtot!)
+
