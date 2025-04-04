@@ -1,0 +1,212 @@
+body{
+    background-color: antiquewhite;
+}
+
+
+.bg{
+    background-color: red;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;  
+}
+
+.hr{
+    color: rgb(46, 38, 21);
+    width: 50%;
+}
+
+.hrm{
+    color: rgb(46, 38, 21);
+    width: 100%;
+}
+
+.midbuttondiv{
+    text-align: center;
+}
+
+.midbuttons{
+    background-color: red;
+    opacity: 80%;
+    transition-duration: 0.3s;
+    border-radius: 15px;
+    border-color: rgb(180, 153, 118);
+    border-width: 1px;
+    width: 4cm;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    text-align: center;
+    padding: 8px;
+    font-size: 16px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 700;
+}
+
+.midbuttons:hover{
+    background-color: rgb(214, 189, 156);
+    opacity: 40%;
+
+}
+
+
+.h{
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    color: gray;
+}
+
+.rend{
+    color: rgba(11, 27, 252, 0.829);
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    background-color: rgba(184, 30, 30, 0.788);
+    
+}
+.szosz{
+    color: rgb(185, 37, 37);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-style: oblique;
+    font-size: 20px;
+}
+
+.sonka{
+    color: cadetblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-style: oblique;
+    font-size: 20px;
+}
+.gomba{
+    color: aqua;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-style: oblique;
+    font-size: 20px;
+}
+
+
+.olivabogyo{
+    color: chocolate;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-style: oblique;
+    font-size: 20px;
+}
+
+.olivaolaj{
+    color: bisque;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-style: oblique;
+    font-size: 20px;
+}
+
+.articsóka{
+    color: darkturquoise;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-style: oblique;
+    font-size: 20px;
+}
+
+.kolbász{
+    color: dodgerblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-style: oblique;
+    font-size: 20px;
+}
+
+.mozzarella{
+    color: darkgreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-style: oblique;
+    font-size: 20px;
+}
+
+.oregano{
+    color: lightskyblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-style: oblique;
+    font-size: 20px;
+}
+
+.tojas{
+    color: gold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-style: oblique;
+    font-size: 20px;
+}
+
+.bazsalikom{
+    color: cyan;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-style: oblique;
+    font-size: 20px;
+}
+
+.fokhagyma{
+    color: cadetblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-style: oblique;
+    font-size: 20px;
+}
+
+.kapribogyo{
+    color: deepskyblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-style: oblique;
+    font-size: 20px;
+}
+
+.chili{
+    color: crimson;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-style: oblique;
+    font-size: 20px;
+}
+
+.pepperoni{
+    color: yellowgreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-style: oblique;
+    font-size: 20px;
+}
+
+.szardella{
+    color: rgb(27, 104, 104);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-style: oblique;
+    font-size: 20px;
+}
+
+.olajbogyo{
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-style: oblique;
+    font-size: 20px;
+}
+.menuk{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-style: oblique;
+    font-size: 20px;
+}
+
