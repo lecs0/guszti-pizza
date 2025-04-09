@@ -1,0 +1,87 @@
+/* Alap formazas ne piszkald bence */
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f0f0f0; }
+
+.fejlec {
+    background-color: #e8491d;
+    color: white;
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-height: 60px;
+}
+.fejlec .logo { height: 50px; }
+.navigacio { list-style: none; padding: 0; margin: 0; }
+.navigacio li { display: inline-block; margin-left: 10px; padding: 0 10px; }
+.navigacio a { color: white; text-decoration: none; text-transform: uppercase; font-weight: bold; font-size: 15px; display: block; padding: 5px 0; }
+.navigacio a:hover { color: #eeeeee; }
+.tartalom { width: 80%; max-width: 900px; margin: 20px auto; background-color: #ffffff; padding: 20px; border: 1px solid #cccccc; }
+.tartalom h2 { text-align: center; color: #333333; margin-bottom: 20px; }
+.lablec { background-color: #333333; color: #ffffff; text-align: center; padding: 15px; margin-top: 20px; font-size: 0.9em; }
+.lablec a { color: #e8491d; text-decoration: none; }
+.lablec a:hover { text-decoration: underline; }
+
+
+/* innentol piszkalhatod */
+
+.csapat-tabla {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.csapat-tabla td {
+    border: 1px solid #dddddd;
+    padding: 15px;
+    vertical-align: top;
+    width: 25%;
+}
+
+.csapat-tabla img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 2px solid #e8491d;
+    margin-bottom: 10px;
+}
+
+.csapat-tabla b {
+    display: block;
+    margin-bottom: 5px;
+    color: #333;
+}
+
+
+.leiras {
+    line-height: 1.6;
+    text-align: justify;
+    margin-bottom: 30px;
+}
+
+
+.info-doboz {
+    border: 1px solid #eeeeee;
+    background-color: #fdfdfd;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.info-doboz h3 {
+    margin-top: 0;
+    color: #e8491d;
+    border-bottom: 1px solid #eeeeee;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+
+.info-doboz ul {
+    list-style: square;
+    padding-left: 20px;
+    margin: 0;
+}
+
+.info-doboz li, .info-doboz p {
+    margin-bottom: 8px;
+    line-height: 1.5;
+}

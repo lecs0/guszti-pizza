@@ -1,0 +1,75 @@
+/* Alap formazas bence ne piszkald */
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f0f0f0; }
+.fejlec {
+    background-color: #e8491d;
+    color: white;
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-height: 60px;
+}
+.fejlec .logo { height: 50px; }
+.navigacio { list-style: none; padding: 0; margin: 0; }
+.navigacio li { display: inline-block; margin-left: 10px; padding: 0 10px; }
+.navigacio a { color: white; text-decoration: none; text-transform: uppercase; font-weight: bold; font-size: 15px; display: block; padding: 5px 0; }
+.navigacio a:hover { color: #eeeeee; }
+.tartalom h2 { text-align: center; color: #333333; margin-bottom: 20px; }
+.lablec { background-color: #333333; color: #ffffff; text-align: center; padding: 15px; margin-top: 20px; font-size: 0.9em; }
+.lablec a { color: #e8491d; text-decoration: none; }
+.lablec a:hover { text-decoration: underline; }
+
+/* innentol piszkalhatod */
+.rendeles-form {
+    width: 80%;
+    max-width: 500px;
+    margin: 20px auto;
+    padding: 15px;
+    border: 1px solid #dddddd;
+    background-color: #f9f9f9;
+    margin-bottom: 150px;
+}
+
+.rendeles-form p {
+    margin-bottom: 15px;
+}
+
+.rendeles-form label {
+    font-weight: bold;
+    color: #555555;
+}
+
+.rendeles-form input[type="text"],
+.rendeles-form input[type="tel"],
+.rendeles-form textarea {
+    padding: 8px;
+    border: 1px solid #cccccc;
+    margin-top: 5px;
+    width: 95%;
+}
+
+.rendeles-form textarea {
+    resize: vertical;
+}
+
+.rendeles-form .gomb {
+    background-color: #e8491d;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+.rendeles-form .gomb:hover {
+    background-color: #c43a12;
+}
+
+.rendeles-form .info {
+    font-size: 0.8em;
+    color: #666666;
+    margin-top: 20px;
+    border-top: 1px dashed #cccccc;
+    padding-top: 10px;
+    text-align: center;
+}

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <title>Rendelés - Guszti Pizzázó</title>
+    <link rel="stylesheet" href="rendeles.css">
+</head>
+<body>
+
+    <div class="fejlec">
+        <a href="pizzak.html">
+             <img src="res/logo.png" alt="Guszti Pizzázó Logó" class="logo">
+        </a>
+        <ul class="navigacio">
+            <li><a href="pizzak.html">Pizzáink</a></li>
+            <li><a href="rendeles.html">Rendelés</a></li>
+            <li><a href="rolunk.html">Rólunk</a></li>
+        </ul>
+    </div>
+
+    <div class="tartalom">
+        <h2>Rendelés Leadása</h2>
+
+        <form class="rendeles-form">
+             <p>
+                <label for="nev">Név:</label><br>
+                <input type="text" id="nev" name="nev" size="40" required>
+            </p>
+            <p>
+                <label for="telefon">Telefonszám:</label><br>
+                <input type="tel" id="telefon" name="telefon" size="40" required>
+            </p>
+            <p>
+                <label for="cim">Szállítási cím (Irányítószám, Város, Utca, Házszám):</label><br>
+                <input type="text" id="cim" name="cim" size="50" required>
+            </p>
+            <p>
+                <label for="emelet">Emelet / Ajtó (ha van):</label><br>
+                <input type="text" id="emelet" name="emelet" size="20">
+            </p>
+            <p>
+                <label for="megjegyzes">Megjegyzés (pl. kért pizzák neve, darabszáma):</label><br>
+                <textarea id="megjegyzes" name="megjegyzes" rows="5" cols="50"></textarea>
+            </p>
+            <p style="text-align: center;">
+                <input type="submit" value="Rendelés Elküldése" class="gomb">
+            </p>
+             <p class="info">
+                Figyelem! A rendelés elküldése után kollégánk telefonon fogja keresni az adatok és a rendelés megerősítése miatt. Kérjük, a megjegyzésbe írja bele, mit szeretne rendelni!
+            </p>
+        </form>
+
+    </div>
+
+    <div class="lablec">
+        <p>Guszti Pizzázó &copy; 2025</p>
+        <p>Cím: 6500 Baja, Március 15 sétány utca 5. | Tel: +36 30 907 1049 | Email: info@gusztipizza.hu</p>
+    </div>
+
+</body>
+</html>
