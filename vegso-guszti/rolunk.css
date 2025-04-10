@@ -52,6 +52,19 @@ body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: 
     color: #333;
 }
 
+.elsohely img {
+    width: 150px;
+    height: 150px;
+}
+
+.elsohely b {
+    margin-bottom: 0px;
+}
+
+.elsohely {
+    font-size: 20px;
+}
+
 
 .leiras {
     line-height: 1.6;
